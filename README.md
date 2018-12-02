@@ -1,16 +1,9 @@
 # flutter_animations_basics
 
-A project to explain how animations work in Flutter
+A project to explain how animations work in Flutter.
 
-## Getting Started
+# How-to
 
-This project is a starting point for a Flutter application.
+There are several AnimatedHome classes created.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Just replace the last number in main.dart for the AnimatedHome constructor, and you can try all animation steps.
